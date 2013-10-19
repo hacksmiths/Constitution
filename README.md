@@ -1,7 +1,9 @@
 # Goldsmiths Hack Society Constitution
 
+```
 Date: 19 Oct 2013
 Name of Society: Goldsmiths Hack Society
+```
 
 ## Membership Fee
 
